@@ -1,15 +1,13 @@
-
-import './App.css'
+import './App.css';
+import Try from './try';
 
 function App() {
 
-
   return (
-    <div>
-      <h1>react js</h1>
-      <h2>App js</h2>
-    </div>
+    
   )
+
 }
 
-export default App
+export default App;
+
